@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MeichaoPoliSci.github.io/sitemap.xml
+Sitemap: meichaosong.com/sitemap.xml
